@@ -1,6 +1,6 @@
 # Discord Balance
 
-##Bringing Balance to Discord 🛡️
+## Bringing Balance to Discord 🛡️
 Balance is a bot designed to keep servers safe while providing logging to keep everything organized. Its powerful logging keeps track of every action committed possible. Its auto-moderation capabilities also allow it to filter out certain types of behavior without need for human intervention, lightening the load on the staff team. Balance is designed to be easy to use and provide a safe environment.
 
 ## [Balance Wiki](https://github.com/qasmokes/balance/wiki)
