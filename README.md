@@ -6,7 +6,7 @@ Balance is a bot designed to keep servers safe while providing logging to keep e
 ## [Balance Wiki](https://github.com/qasmokes/balance/wiki)
 ℹ [About Balance](https://github.com/qasmokes/balance/wiki/about)  
 🔹 [Getting Started](https://github.com/qasmokes/balance/wiki/getting-started)  
-👷 [Moderator Guide](https://github.com/qasmokes/balance/wiki/guide)  
+👷 [Moderator Guide](https://github.com/qasmokes/balance/wiki/moderator-guide)  
 🚩 [Strikes](https://github.com/qasmokes/balance/wiki/strikes)  
 💡 [Auto-Moderation](https://github.com/qasmokes/balance/wiki/automod)  
 📜 [Logging](https://github.com/qasmokes/balance/wiki/logging)  
