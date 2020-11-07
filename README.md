@@ -9,8 +9,8 @@ Balance is a bot designed to keep servers safe while providing logging to keep e
 👷 [Moderator Guide](https://github.com/qasmokes/balance/wiki/guide)  
 🚩 [Strikes](https://github.com/qasmokes/balance/wiki/strikes)  
 💡 [Auto-Moderation](https://github.com/qasmokes/balance/wiki/automod)  
-🔸 [Premium](https://github.com/qasmokes/balance/wiki/premium)  
 📜 [Logging](https://github.com/qasmokes/balance/wiki/logging)  
+🔸 [Premium](https://github.com/qasmokes/balance/wiki/premium)  
 🔌 [Troubleshooting](https://github.com/qasmokes/balance/wiki/troubleshooting)  
 🌐 [Support Server](https://github.com/qasmokes/balance/invite)
 
