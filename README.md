@@ -20,4 +20,4 @@ Join the Balance Discord server for reporting bugs, suggesting features or just 
 ## Is this project open source?
 This project is not open source. To learn about the inner workings of Balance or how to make bots similair find us at the Balance support server
 
-> ### [PRIVACY](https://github.com/qasmokes/balance/privacy) | [TOS](https://github.com/qasmokes/balance/privacy)
+> ### [PRIVACY](https://github.com/qasmokes/balance/privacy) |  [TOS](https://github.com/qasmokes/balance/privacy)
